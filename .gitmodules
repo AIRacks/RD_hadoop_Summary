@@ -1,3 +1,6 @@
 [submodule "biolab-Hadoop-Distributed-Computing"]
-	path = biolab-Hadoop-Distributed-Computing
-	url = https://github.com/biosensorlab/biolab-Hadoop-Distributed-Computing
+path=biolab-Hadoop-Distributed-Computing
+url = https://github.com/biosensorlab/biolab-Hadoop-Distributed-Computing
+[submodule "hadoop-for-hpcers-tutorial"]
+path=hadoop-for-hpcers-tutorial
+url = https://github.com/ljdursi/hadoop-for-hpcers-tutorial.git
