@@ -1,0 +1,3 @@
+[submodule "biolab-Hadoop-Distributed-Computing"]
+	path = biolab-Hadoop-Distributed-Computing
+	url = https://github.com/biosensorlab/biolab-Hadoop-Distributed-Computing
