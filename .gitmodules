@@ -4,9 +4,12 @@ url = https://github.com/biosensorlab/biolab-Hadoop-Distributed-Computing
 [submodule "hadoop-for-hpcers-tutorial"]
 path=hadoop-for-hpcers-tutorial
 url = https://github.com/ljdursi/hadoop-for-hpcers-tutorial.git
+[submodule "node-hadoop-streaming-utils"]
+path=node-hadoop-streaming-utils
+url = https://github.com/koorchik/node-hadoop-streaming-utils
 [submodule "quantum-hadoop"]
-	path = quantum-hadoop
-	url = https://github.com/Marquezino/quantum-hadoop
+path=quantum-hadoop
+url = https://github.com/Marquezino/quantum-hadoop
 [submodule "webhdfs-client"]
-	path = webhdfs-client
-	url = https://github.com/jcgillespie/webhdfs-client
+path=webhdfs-client
+url = https://github.com/jcgillespie/webhdfs-client

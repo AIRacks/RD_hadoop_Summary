@@ -1,0 +1,32 @@
+{
+  "name": "hadoop-streaming-utils",
+  "version": "0.0.8",
+  "description": "Hadoop streaming utils for NodeJS",
+  "main": "lib/hadoop-streaming-utils.js",
+  "scripts": {
+    "test": "mocha  --timeout 3000 --ui qunit tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koorchik/node-hadoop-streaming-utils.git"
+  },
+  "keywords": [
+    "hadoop",
+    "streaming",
+    "mapreduce"
+  ],
+  "author": "koorchik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koorchik/node-hadoop-streaming-utils/issues"
+  },
+  "homepage": "https://github.com/koorchik/node-hadoop-streaming-utils",
+  "dependencies": {
+    "bluebird": "^2.9.25",
+    "split": "^0.3.3"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.5"
+  }
+}
