@@ -4,6 +4,9 @@ url = https://github.com/biosensorlab/biolab-Hadoop-Distributed-Computing
 [submodule "hadoop-for-hpcers-tutorial"]
 path=hadoop-for-hpcers-tutorial
 url = https://github.com/ljdursi/hadoop-for-hpcers-tutorial.git
+[submodule "hvision"]
+	path = hvision
+	url = https://github.com/Sapphirine/hvision
 [submodule "node-hadoop-streaming-utils"]
 path=node-hadoop-streaming-utils
 url = https://github.com/koorchik/node-hadoop-streaming-utils
